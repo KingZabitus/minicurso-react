@@ -1,0 +1,17 @@
+#container {
+
+    padding: 3%;
+}
+
+#imgpj {
+    height: 144px;
+    width: 120px;
+}
+
+#nome {
+    font-size: small;
+}
+
+#cargo {
+    font-size: smaller;
+}

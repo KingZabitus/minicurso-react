@@ -1,0 +1,13 @@
+#header {
+    align-items: center;
+    background-color: grey;
+}
+
+#logo {
+    margin-left: 40%;
+}
+
+#button {
+    height: 50px;
+    margin-left: 10%;
+}
